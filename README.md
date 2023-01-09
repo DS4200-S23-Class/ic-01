@@ -9,15 +9,17 @@ The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. 
 
 1. If you are unfamiliar with Git, GitHub, and GitHub Pages, please start by reviewing the background material provided below in the Resources section.  
 
-1. Clone this repo. 
+1. Make sure you have an RSA key set up for your GitHub account. Step-by-step instructions are [here] (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys) -- be sure to start by checking for an existing SSH key. **You must set up your RSA key with a password.** If you do not, you will lose push/pull access to your repo. 
 
-1. Open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "----Add you name here----" with your name. 
+1. Clone this repo using SSH. 
+
+1. In your local copy of the repo, open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "----Add you name here----" with your name. 
 
 1. Push your change to your remote repo. 
 
-1. Create a GitHub Page for your repo. 
+1. From your remote repo, create a GitHub Page for your repo. Step-by-step instructions are [here](https://docs.github.com/en/pages/quickstart), **start on step 3**.  
 
-1. Add the link to your GitHub Page **HERE**. 
+1. In the local copy of your repo, Add the link to your GitHub Page **HERE**. 
 
 1. Push your change to your remote repo. 
 
@@ -88,4 +90,4 @@ For more information on creating GitHub Pages, see the ["Creating you site"](htt
 ## Submission
 
 * Be sure to push all changes to your repo and follow all instructions above. 
-* For this portion of your assignment **submit a clickable URL to your GitHub repository** (not your GitHub Page).  
+* Submit on Gradescope. 
